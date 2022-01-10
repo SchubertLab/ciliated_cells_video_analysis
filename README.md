@@ -1,5 +1,5 @@
 # ciliated_cells_video_analysis
-Analysis of beating frequencies from videos of ciliated cells.
+Frequency analysis of beating frequencies from videos of ciliated cells.
 
 ## Content
 
