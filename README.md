@@ -1,5 +1,8 @@
 # ciliated_cells_video_analysis
-Frequency Analysis of ciliated cell videos.
+Analysis of beating frequencies from videos of ciliated cells.
 
-src -> main_process_video.py - script to perform frequency analysis with videos from a directory. output is a csv file.
-notebooks -> 0-ciliary_beating_frequency_from_videos - jupyter notebook to perform frequency analysis with videos from a directory.
+## Content
+
+1. [Main Script To Process Videos:](./src/main_process_video.py) Script to perform frequency analysis with videos from a directory. output is a csv file.
+
+2. [Notebook To Process Videos:](./notebooks/0-ciliary_beating_frequency_from_videos.ipynb) Notebook to perform frequency analysis with videos from a directory.
